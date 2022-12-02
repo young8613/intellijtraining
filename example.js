@@ -7,5 +7,6 @@ function example(){
 
     console.log("fix issue1 part 1");
     console.log("fix issue1 part 2");
+    console.log("fix issue1 part 3");
 
 }
