@@ -9,4 +9,6 @@ function example(){
     console.log("fix issue1 part 2");
     console.log("fix issue1 part 3");
 
+    console.log("wrong code");
+
 }
